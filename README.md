@@ -14,15 +14,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/g_georgiewww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_georgiewww" height="30" width="40" /></a>
-<a href="https://discord.gg/#6150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="horhe07" height="30" width="40" /></a>
+  <a href="https://instagram.com/g_georgiewww" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_georgiewww" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/#6150" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="horhe07" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/georgi-georgiev-b06014341/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgieww" height="30" width="40" />
+  </a>
 </p>
-<a href="https://www.linkedin.com/in/georgi-georgiev-b06014341/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgieww" height="30" width="40" />
-</a>
 
 
-<p align="left">
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
@@ -38,11 +43,4 @@
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgieww07&show_icons=true&locale=en&layout=compact" alt="georgieww07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgieww07&show_icons=true&locale=en" alt="georgieww07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=georgieww07&" alt="georgieww07" /></p>
+</div>
